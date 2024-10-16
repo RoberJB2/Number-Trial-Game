@@ -15,6 +15,7 @@ static void textPrint(string dial) {
     }
 }
 
+// Allows manual input of sleep, no variable counter
 static void textStepSleep(int sleep, string dial) {
     int i = 0;
     string text = dial;
